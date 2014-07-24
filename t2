@@ -3,5 +3,11 @@ Adding conflicting in master
 hello 2
 commit 2 in t2 
 
+
 this in the branch feature 1
+
+this in the branch master 1
+
+this is for the 2 commit in master branch 
+
 
